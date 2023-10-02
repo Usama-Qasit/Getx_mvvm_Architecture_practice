@@ -1,6 +1,9 @@
 ### GETx MVVM ARCHITECTURE
 
-1. GetX
+### Show Your Support:
+If you found this calculator app useful, don't forget to give us a star on GitHub. Your support is greatly appreciated! ⭐
+
+1.**GetX** 
 
 - GetX is a popular state management library for Flutter that simplifies the development process.
 - It provides a lightweight and efficient way to manage states, routes, and dependencies in your Flutter application.
@@ -11,7 +14,7 @@
 - View represents the UI and is responsible for rendering the user interface.
 - ViewModel acts as a bridge between the Model and View, handling the business logic and state management.2.
 
-3. Using GetX with MVVM in Flutter:
+3. **Using GetX with MVVM in Flutter**:
 
 - Start by defining your data models and business logic in the Model layer.
 - Create separate ViewModel classes for each screen or logical section of your app. These ViewModels should contain the data and methods required for the UI.
@@ -21,7 +24,7 @@
 - Implement navigation between screens using GetX's routing system, which simplifies navigation and provides a clean way to manage routes.
 - Leverage GetX's other features like dialogs, snackbar messages, and more to enhance the user experience.
   
-4. Advantages of GetX with MVVM in Flutter:
+4. **Advantages of GetX with MVVM in Flutter:**
 
 - Provides a clean and organized code structure, making it easier to maintain and scale your app.
 - Promotes separation of concerns, making your code more modular and testable.
