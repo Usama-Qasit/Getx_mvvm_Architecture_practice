@@ -1,16 +1,12 @@
-# getx_mvvm
+### GETx MVVM ARCHITECTURE
 
-A new Flutter project.
+1. GetX
 
-## Getting Started
+- GetX is a popular state management library for Flutter that simplifies the development process.
+- It provides a lightweight and efficient way to manage states, routes, and dependencies in your Flutter application.
+2. MVVM (Model-View-ViewModel):
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+MVVM is an architectural pattern that separates the components of your Flutter app into three main layers: Model, View, and ViewModel.
+Model represents the data and business logic of your application.
+View represents the UI and is responsible for rendering the user interface.
+ViewModel acts as a bridge between the Model and View, handling the business logic and state management.2. 
