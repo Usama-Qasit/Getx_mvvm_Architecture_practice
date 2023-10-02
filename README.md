@@ -28,4 +28,10 @@
 - Offers high performance and minimal boilerplate code.
 - Supports reactive programming, enabling automatic UI updates when data changes.
 - Simplifies navigation and route management.
-- Includes a range of utilities for common tasks like managing dialogs and snackbar messages. 
+- Includes a range of utilities for common tasks like managing dialogs and snackbar messages.
+
+## Download the ZIP File:
+Download the calculator app ZIP file now and simplify your math tasks effortlessly!
+
+### Show Your Support:
+If you found this calculator app useful, don't forget to give us a star on GitHub. Your support is greatly appreciated! ⭐
